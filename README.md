@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aryan Rahul Verma!
+# 👋 Hi there, I'm Aryan!
 
 ## 🧑‍💻 Data Engineer | 💻 Machine Learning Enthusiast | 🌐 Web Data Management
 

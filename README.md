@@ -2,8 +2,6 @@
 
 ## 🧑‍💻 Data Engineer | 💻 Machine Learning Enthusiast | 🌐 Web Data Management
 
----
-
 ### About Me
 Ever since I wrote my first lines of code, I've been captivated by the power of data to drive decision-making and innovation. Today, I channel that fascination as a Data Engineer and Researcher, building scalable, impactful solutions to real-world problems. My toolkit includes:
 - Python 🐍
@@ -36,7 +34,7 @@ I’m always excited to meet fellow data enthusiasts, collaborate on projects, a
 ---
 
 ### 🛠 Languages & Tools:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
